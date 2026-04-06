@@ -7,9 +7,8 @@ PetRecord holds attributes such as petId, petName, and Pet.
 
 Clinic would be the client object.
 
-Refer to the UML Class Diagram
-
+Refer to the UML Class Diagram.
 
 
 ## Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/0506f134-a5f6-4d98-a817-cd6f7a8466c7)
+<img width="382" height="558" alt="image" src="https://github.com/user-attachments/assets/4ea62d0b-c256-45ba-a5b3-167edef3cf3b" />
